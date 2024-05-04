@@ -1,0 +1,49 @@
+* {
+    margin: 11px;;
+    padding:0;
+}
+
+body {
+
+    background-image: url(Sweet\ home.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+header {
+    top: 0;
+    width: 100vw;
+    position: fixed;
+    justify-content: space-between;
+    display: flex;
+    padding: 2vh 2vw;
+    align-items: center;
+}
+
+nav {
+    display: inline-block;
+    word-spacing: 2vh;
+}
+
+nav a {
+    font-size: 3vh;
+    text-decoration: none;
+    color: white;
+}
+
+.HeaderName{
+   
+    font-size: 5.5vh;
+    color: azure;
+}
+ .Ethic{
+    color:deepskyblue;
+    size:6vh;
+ }
+
+ 
+ 
